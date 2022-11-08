@@ -1,16 +1,14 @@
-### Hi there 👋
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurasultan&theme=dark&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurasultan&theme=dark&show_icons=true&layout=compact)](https://github.com/laurasultan/github-readme-stats)
 
 <!--
-**laurasultan/laurasultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/laurasultan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurasultan&theme=dark&show_icons=true&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/laurasultan/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasultan&theme=dark&show_icons=true&layout=compact" />
+</a>
+
+->

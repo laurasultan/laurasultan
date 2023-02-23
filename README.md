@@ -1,5 +1,5 @@
 ## laura
-- Front-end Web Development
+- Front-End Web Development
 - 30/03/2022
 
 <div align="center">
